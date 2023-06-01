@@ -2,7 +2,7 @@
 Um sistema super prático e intuitivo para o seu hotel!
 
  # Autores
- Otávio Severino
+ Otávio Severino <br>
  Tamoni Silva
 
 # Descrição
