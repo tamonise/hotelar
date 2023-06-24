@@ -15,13 +15,13 @@ Programado em C
 O código deve ser utilizado para gerenciar um pequeno hotel, em que os dados de entrada sejam digitados por um atendente sem possibilidade de edição, porém possui facilitações para o gerenciamento ser mais prático, pois realiza check-in e check-out automatizados no sistema. Optamos por manter somente uma chamada de função no main, com o intuito de utilizar a função de menuPrincipal para realizar a chamada das outras funções.
  
  # TODO: desenvolvimentos necessários, bugs, novas funcionalidades
- -estrutura da fila;
- -registro de hóspede;
- -registro de quarto;
- -registro de estacionamento;
- -função para o menu principal;
- -funções referentes a fila: cria, estavazia, insere;
- -função de check-in de novo hóspede;
- -função de procurarRemoverHospede;
- -função de mostrarClientesEstacionamento;
+ -estrutura da fila;  <br>
+ -registro de hóspede;  <br>
+ -registro de quarto;  <br>
+ -registro de estacionamento;  <br>
+ -função para o menu principal;  <br>
+ -funções referentes a fila: cria, estavazia, insere;  <br>
+ -função de check-in de novo hóspede;  <br>
+ -função de procurarRemoverHospede;  <br>
+ -função de mostrarClientesEstacionamento;  <br>
  -função de QuartosOcupados;
